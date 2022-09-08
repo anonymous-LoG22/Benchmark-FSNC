@@ -24,7 +24,7 @@ Insufficient number of classes: ***D***. Cora    ***E***. CiteSeer, ***F***. Ama
 [Full Paper List](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 |Name|Paper|Original Code
 |---|---|---|
-|FT-GNN|[[ECCV 2020] Rethinking few-shot image classification: a good embedding is all you need?](https://link.springer.com/chapter/10.1007/978-3-030-58568-6_16)|[PyTorch](https://github.com/WangYueFt/rfs)
+|I-GNN|[[ECCV 2020] Rethinking few-shot image classification: a good embedding is all you need?](https://link.springer.com/chapter/10.1007/978-3-030-58568-6_16)|[PyTorch](https://github.com/WangYueFt/rfs)
 |MVGRL|[[ICML 2020] Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/pdf/2006.05582.pdf)|[PyTorch](https://github.com/kavehhassani/mvgrl)
 |GRACE|[[ICML 2020 Workshop] Deep Graph Contrastive Representation Learning](https://arxiv.org/pdf/2006.04131.pdf)|[PyTorch](https://github.com/CRIPAC-DIG/GRACE)
 |GraphCL|[[NeurIPS 2020] Graph Contrastive Learning with Augmentations](https://arxiv.org/pdf/2010.13902.pdf)|[PyTorch](https://github.com/Shen-Lab/GraphCL)
